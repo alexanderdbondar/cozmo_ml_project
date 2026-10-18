@@ -1,0 +1,10 @@
+torch>=2.0.0
+numpy>=1.24.0
+safetensors>=0.3.0
+opencv-python>=4.7.0
+pillow>=9.5.0
+pycozmo==0.8.0
+pandas>=2.0.0
+pynput>=1.7.6
+dlib>=19.24.0
+
